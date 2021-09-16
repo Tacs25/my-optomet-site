@@ -11,5 +11,6 @@ h3{
     background-color: lightseagreen;
     color: white; 
     border: none;
+    border-radius: 30px;
     display: none;
 }
